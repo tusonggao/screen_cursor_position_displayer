@@ -1,12 +1,7 @@
 from PyQt4 import QtGui  
 from PyQt4 import QtCore  
-#from PyQt4.QtWebKit import*  
-#from PyQt4 import QtCore, QtGui  
-#from PyQt4 import uic  
 from PyQt4.QtCore import *  
 from PyQt4.QtGui import *  
-#from PyQt4.QtWebKit import *  
-#from PyQt4.QtNetwork import *  
 import sys
 
 class MainDialog(QtGui.QDialog):    
